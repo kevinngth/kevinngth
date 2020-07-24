@@ -1,4 +1,4 @@
-### 👋 Hi, Kevin here, here's some links to help you browse through my stuff effortlessly:
+### 👋 Hi, here's some links to help you browse through my stuff effortlessly:
 
 #### :seedling: [Current Project]()
 
