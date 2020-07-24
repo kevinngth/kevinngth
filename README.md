@@ -1,4 +1,5 @@
 ### 👋 Hi, here's some links to help you browse through my stuff effortlessly:
+<hr/>
 <!--
 #### :seedling: [Current Project]()
 -->
