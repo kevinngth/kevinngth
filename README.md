@@ -4,7 +4,7 @@
 
 #### :open_file_folder: [Past Projects](/past-projects.md)
 
-#### [Code Katas](/past-projects.md)
+#### [Code Katas](/code-katas.md)
 
 #### 💬 [Code Snippets](https://github.com/kevinngth/snippets)
 
