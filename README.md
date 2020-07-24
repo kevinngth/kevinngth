@@ -2,9 +2,9 @@
 <hr/>
 <!-- #### :seedling: [Current Project]() -->
 
-#### :books: [Past Projects](kevinngth/kevinngth/blob/master/past-projects.md)
+#### :books: [Past Projects](https://github.com/kevinngth/kevinngth/blob/master/past-projects.md)
 
-#### :sushi: [Code Katas](./code-katas.md)
+#### :sushi: [Code Katas](https://github.com/kevinngth/kevinngth/blob/master/code-katas.md)
 
 #### :scissors: [Code Snippets](https://github.com/kevinngth/snippets)
 
