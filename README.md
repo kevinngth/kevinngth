@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-#### [Code snippets](https://github.com/kevinngth/snippets)
+#### [🌱 Current project]()
+
+#### [💬 Code snippets](https://github.com/kevinngth/snippets)
 <!--
 **kevinngth/kevinngth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
