@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 -->
 <hr/>
 <sup><a href="https://guides.github.com/features/mastering-markdown/">Markdown guide</sup>
+  
 <sup><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</sup>
+  
+  
