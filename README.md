@@ -14,5 +14,6 @@ fill up past projects and code katas page
 -->
 <hr/>
 <sup><a href="https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax">Markdown guide</a></sup>
+
 <sup><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</a></sup>
   
