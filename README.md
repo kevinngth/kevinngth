@@ -2,7 +2,7 @@
 
 #### 🌱 [Current Project]()
 
-#### [Past Projects](/past-projects.md)
+#### :open_file_folder: [Past Projects](/past-projects.md)
 
 #### [Code Katas](/past-projects.md)
 
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr/>
+<sup><a href="https://guides.github.com/features/mastering-markdown/">Markdown guide</sup>
 <sup><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</sup>
