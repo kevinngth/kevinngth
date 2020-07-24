@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-#### 🌱 [Current project]()
+#### 🌱 [Current Project]()
 
-#### 💬 [Code snippets](https://github.com/kevinngth/snippets)
+#### [Past Projects](/past-projects.md)
+
+#### [Code Katas](/past-projects.md)
+
+#### 💬 [Code Snippets](https://github.com/kevinngth/snippets)
+
 <!--
 **kevinngth/kevinngth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr/>
+<sup><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</sup>
