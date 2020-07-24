@@ -2,7 +2,7 @@
 <hr/>
 <!-- #### :seedling: [Current Project]() -->
 
-#### :books: [Past Projects](./past-projects.md)
+#### :books: [Past Projects](past-projects.md)
 
 #### :sushi: [Code Katas](./code-katas.md)
 
