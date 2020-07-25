@@ -11,7 +11,7 @@
 
 <!--
 To-do list:
-fill up past projects and code katas page
+fill up past projects page
 -->
 <hr/>
 <sup><a href="https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet">Markdown guide</a></sup>
