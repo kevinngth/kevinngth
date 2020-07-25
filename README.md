@@ -1,4 +1,5 @@
 ### 👋 Hi, here's some links to help you browse through my stuff effortlessly:
+
 <hr/>
 <!-- #### :seedling: [Current Project]() -->
 
@@ -16,4 +17,3 @@ fill up past projects and code katas page
 <sup><a href="https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet">Markdown guide</a></sup>
 
 <sup><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</a></sup>
-  
