@@ -1,5 +1,7 @@
 # Code Katas
 
+These are all the coding exercises I've attempted besides those in [HackerRank](https://www.hackerrank.com/), [LeetCode](https://leetcode.com/), [Codewars](https://www.codewars.com/) and [Edabit](https://edabit.com/)
+
 <details>
 <summary>JS</summary>
   
