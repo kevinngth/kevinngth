@@ -32,9 +32,9 @@ Description: Social media site where users can create quizzes and award other us
 
 Stack: React, Ruby on Rails, PostgreSQL
 
-## [Nat-Jio](https://jyggr.herokuapp.com/)
+## [Nat-Jio](https://nat-jio.herokuapp.com/)
 
-[Repo](https://github.com/kevinngth/Project-1-Game)
+[Repo](https://github.com/kevinngth/traveller-guide-app)
 
 Created for: GA Project 3
 
@@ -44,7 +44,7 @@ Stack: Ruby on Rails, JS, PostgreSQL
 
 ## [Jyggr](https://jyggr.herokuapp.com/)
 
-[Repo](https://github.com/kevinngth/Project-1-Game)
+[Repo](https://github.com/kevinngth/project-2-App)
 
 Created for: GA Project 2
 
