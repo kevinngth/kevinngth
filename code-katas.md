@@ -2,6 +2,8 @@
 
 These are all the coding exercises I've attempted besides those in [HackerRank](https://www.hackerrank.com/), [LeetCode](https://leetcode.com/), [Codewars](https://www.codewars.com/) and [Edabit](https://edabit.com/)
 
+<sub><a href="https://github.com/kevinngth">back to profile</a></sub>
+
 <details>
 <summary>JS</summary>
   
