@@ -1,7 +1,7 @@
 ### 👋 Hi, here's some links to help you browse through my stuff effortlessly:
 
 <hr/>
-<!-- #### :seedling: [Current Project]() -->
+#### :seedling: [Current Project](https://github.com/kevinngth/projects-index)
 
 #### :books: [Past Projects](https://github.com/kevinngth/kevinngth/blob/master/past-projects.md)
 
