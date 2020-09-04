@@ -4,6 +4,16 @@ Click on the name of the project to visit the site!
 
 <sub><a href="https://github.com/kevinngth">back to profile</a></sub>
 
+## [Projects Index](https://seif-3.herokuapp.com/)
+
+[Repo](https://github.com/kevinngth/projects-index)
+
+Created for: Automating workflow
+
+Description: An index to showcase students' projects
+
+Stack: MERN (MongoDB, Express, React, Node)
+
 ## [Portfolio v3](https://kevinngth.github.io/)
 
 [Repo](https://github.com/kevinngth/kevinngth.github.io)
