@@ -1,5 +1,7 @@
 # Hi, I'm Kevin
 
+Always open to learning new things
+
 ## Current Project
 
 [![Current Project](https://github-readme-stats.vercel.app/api/pin/?username=kevinngth&repo=projects-index&theme=dracula)](https://github.com/kevinngth/projects-index)
