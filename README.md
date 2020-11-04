@@ -1,4 +1,4 @@
-### 👋 Hi, here's some links to help you browse through my stuff effortlessly:
+### Hi, I'm Kevin
 
 <hr/>
 
@@ -10,11 +10,10 @@
 
 #### :scissors: [Code Snippets](https://github.com/kevinngth/snippets)
 
-<!--
-To-do list:
-fill up past projects page
--->
-<hr/>
-<sup><a href="https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet">Markdown guide</a></sup>
+#### Stacks: <img src="assets/bootstrap.svg" width="20"/> <img src="assets/express.svg" width="20"/> <img src="assets/github-icon.svg" width="20"/> <img src="assets/heroku-icon.svg" width="20"/> <img src="assets/intellij-idea.svg" width="20"/> <img src="assets/java.svg" width="20"/> <img src="assets/javascript.svg" width="20"/> <img src="assets/markdown.svg" width="20"/> <img src="assets/material-ui.svg" width="20"/>
 
-<sup><a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji cheat sheet</a></sup>
+<img src="assets/mongodb.svg" width="20"/> <img src="assets/nodejs-icon.svg" width="20"/> <img src="assets/npm.svg" width="20"/> <img src="assets/postgresql.svg" width="20"/> <img src="assets/rails.svg" width="20"/> <img src="assets/react.svg" width="20"/> <img src="assets/redux.svg" width="20"/> <img src="assets/ruby.svg" width="20"/> <img src="assets/typescript-icon.svg" width="20"/> <img src="assets/visual-studio-code.svg" width="20"/> <img src="assets/yarn.svg" width="20"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinngth&layout=compact&langs_count=10&theme=dracula)](https://github.com/kevinngth/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinngth&repo=traveller-guide-app&theme=dracula)](https://github.com/kevinngth/github-readme-stats)
