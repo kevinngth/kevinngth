@@ -1,6 +1,6 @@
 # Hi, I'm Kevin
 
-Always open to learning new things
+Always open to learning new things. Looking out for new and interesting problems to solve. Build things with tech.
 
 ## Current Project
 
